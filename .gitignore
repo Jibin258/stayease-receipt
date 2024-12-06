@@ -1,0 +1,31 @@
+# Backend (Node.js)
+server/node_modules/
+server/.env
+
+# OS and IDE specific (Backend)
+server/.DS_Store
+server/.vscode/
+
+# Frontend (React)
+# Dependencies
+client/node_modules/
+client/.pnp
+client/.pnp.js
+
+# Testing
+client/coverage/
+
+# Production
+client/build/
+
+# Misc
+client/.DS_Store
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
